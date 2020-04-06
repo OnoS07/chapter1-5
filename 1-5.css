@@ -12,7 +12,7 @@
 
 header{
 	width: 90%;
-	padding: 15px 0;
+	padding: 20px 0;
 	margin: 0 auto;
 	text-align: center;
 }
@@ -23,8 +23,11 @@ header .headline{
 
 .nav-list{
 	text-align: center;
-	padding: 10px 0;
+	padding: 15px 20px;
 	margin: 0 auto;
+	border-top:1px solid gray;
+	border-bottom:1px solid gray;
+
 }
 .nav-list-item{
 	list-style: none;
@@ -33,28 +36,96 @@ header .headline{
 }
 
 .main-visual{
-	width: 100%;
-	height:300px;
-}
-.main-visual-content{
-	width: 350px;
-	height: 300px;
+	width: 800px;
+	height:700px;
+	padding:50px 0;
+	margin: 0 auto;
 }
 
-.main{
-	width: 840px;
-	margin:0 auto;
+.content1{
+  width: 200px;
+  height: 200px;
+  background-color: #E6FFE9;
+  float: left;
 }
-.blog{
-	width: 600px;
-	height: 1400px;
-	float: left;
+
+.content2{
+  width: 200px;
+  height: 200px;
+  background-color: #CBFFD3;
+  float: left;
 }
-.sidebar{
-	width: 240px;
-	height:1400px;
-	float: left;
+
+.content3{
+  width: 200px;
+  height: 200px;
+  background-color: #AEFFBD;
+  float: left;
 }
+
+.content4{
+  width: 200px;
+  height: 200px;
+  background-color: #93FFAB;
+  float: left;
+}
+
+.content5{
+  width: 200px;
+  height: 200px;
+  background-color: #F3FFD8;
+  float: left;
+}
+
+.content6{
+  width: 200px;
+  height: 200px;
+  background-color: #EDFFBE;
+  float: left;
+}
+
+.content7{
+  width: 200px;
+  height: 200px;
+  background-color: #E9FFA5;
+  float: left;
+}
+
+.content8{
+  width: 200px;
+  height: 200px;
+  background-color: #E4FF8D;
+  float: left;
+}
+
+.content9{
+  width: 200px;
+  height: 200px;
+  background-color: #D9E5FF;
+  float: left;
+}
+
+.content10{
+  width: 200px;
+  height: 200px;
+  background-color: #BAD3FF;
+  float: left;
+}
+
+.content11{
+  width: 200px;
+  height: 200px;
+  background-color: #A4C6FF;
+  float: left;
+}
+
+.content12{
+  width: 200px;
+  height: 200px;
+  background-color: #8EB8FF;
+  float: left;
+}
+
 
 footer{
 	width: 100%;
